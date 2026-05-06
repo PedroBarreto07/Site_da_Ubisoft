@@ -6,7 +6,7 @@
 
 ## Preview
 
-<img src="gamestore/assets/img/Preview.png" alt="Ubisoft Store Clone" width="800"/>
+<img width="1897" height="928" src="gamestore/assets/img/Preview.png" alt="Ubisoft Store Clone" width="800"/>
 
 ## Objetivo
 

@@ -1,8 +1,12 @@
-# 🎮 Ubisoft Store — UI Clone
+## Ubisoft Store — UI Clone
 
 > Recriação da interface da Ubisoft Store desenvolvida com HTML, CSS e JavaScript puro.
 
 ---
+
+## Preview
+
+<img width="1897" height="928" alt="image" src="" />
 
 ## Objetivo
 
